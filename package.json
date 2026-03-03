@@ -4,8 +4,8 @@
   "type": "module",
   "gkd": {
     "outDir": "dist",
-    "file": "AIsouler_gkd.json5",
-    "versionFile": "AIsouler_gkd.version.json5",
+    "file": "tomcat_gkd.json5",
+    "versionFile": "tomcat_gkd.version.json5",
     "changelog": "CHANGELOG.md",
     "README.md": "README.md"
   },
